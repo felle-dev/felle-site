@@ -1,1 +1,5 @@
 theme = 'hugo-texify3'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
