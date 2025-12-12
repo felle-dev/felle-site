@@ -12,7 +12,7 @@ If you want to run this locally:
 
 1. Clone the repo.
 2. Run `hugo server -D`.
-3. Open [http://localhost:1313](http://localhost:1313) and enjoy the show.
+3. Open [http://localhost:1313](http://localhost:1313).
 
 
 ## License
